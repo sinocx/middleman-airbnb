@@ -1,8 +1,12 @@
 - name: 'Sébastien Saunier'
   github_nickname: 'ssaunier'
+  city: 'paris'
 - name: 'Boris Paillard'
   github_nickname: 'Papillard'
+  city: 'marseille'
 - name: 'Adam Sarfati'
   github_nickname: 'sinocx'
+  city: montréal
 - name: 'Loic Chesneau'
   github_nickname: 'loicchesneau'
+  city: 'shanghai'
